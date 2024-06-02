@@ -1,0 +1,126 @@
+
+
+Curriculum
+SE Foundations Average: 60.43%
+QA review sheet - "0x00. AirBnB clone - The console"
+
+You are QA reviewing the team: Robert Robert, Geoffrey Mokaya for the project 0x00. AirBnB clone - The console .
+Robert Robert - Nyand
+
+    Last commit: 14 days ago
+    Message: "add asset file"
+    Project repository: AirBnB_clone
+
+Geoffrey Mokaya - mokaya100
+
+    Last commit: 5 days ago
+    Message: "AirBnB_clone project"
+    Project repository: AirBnB_clone
+
+Mandatory tasks
+0. README, AUTHORS
+
+    Write a README.md:
+        description of the project
+        description of the command interpreter:
+            how to start it
+            how to use it
+            examples
+    You should have an AUTHORS file at the root of your repository, listing all individuals having contributed content to the repository. For format, reference Docker’s AUTHORS page
+    You should use branches and pull requests on GitHub - it will help you as team to organize your work
+
+Files in Github:
+
+    README.md: Robert Robert, Geoffrey Mokaya
+    AUTHORS: Robert Robert, Geoffrey Mokaya
+
+    [github] Pull requests are used
+    Score (1 point): 1
+
+    [github] Commit names make sense
+    Score (3 points): 2.6
+
+    [github] There should not be any temp files: there should be no .pyc, *~, #, core, files and no programs.
+        it is ok to have a README.md file
+        it is ok to have an AUTHORS file
+    Score (3 points): 3
+
+    [github] are there 2 contributors?
+        if not, the group must have a valid reason why
+    Score (2 points): 2
+
+    [AUTHORS] Does the repository include an AUTHORS file, with a list of all members of the project, in the following format:
+
+    # comment explaining what is this file about name student1 <email student 1> name student2 <email student 2>
+    Score (1 point): 1
+
+    [README.md] Does the readme have a valid description of the console? What it does, how to run it, and how to use it?
+    Score (1 point): 1
+
+    [README.md] Does the readme show at least one example on how to use the console?
+    Score (1 point): 1
+
+    [README.md] Does the Readme have a valid title:
+        There is a title AND
+        The title makes sense
+    Score (1 point): 1
+
+    [hbnb] Take a random file from the github account and ask student 1 to explain the code of one of the functions.
+    Score (1 point): 1
+
+    [hbnb] Take another random file from the github account and ask student 2 to explain the code of one of the functions.
+    Score (1 point): 1
+
+    [hbnb] the help feature is correctly implemented: all advanced actions are documented
+    Score (2 points): 2
+
+    [hbnb] the help feature is correctly implemented: all basic actions are documented
+    Score (5 points): 5
+
+    [hbnb] Ask students to explain how importing packages in Python works. Make sure they mention the following concepts:
+
+    Ask to explain how importing and packages work in Python: #0 possible syntax: from foo import bar, import bar
+    Score (2 points): 1.9
+
+    [hbnb] Ask students to explain how imports and packages work in Python: #1 when a file is imported it will be executed (Answer: yes and you can prevent that by putting if __name__ == “__main__” )
+    Score (2 points): 2
+
+    [hbnb] Ask students to explain what a package is (Answer: a package is a folder with a file init.py (this file can be empty))
+    Score (2 points): 2
+
+    [hbnb] Ask students to explain what a relative path is (Answer: a relative path is a “path” to a python file from where you import it)
+    Score (2 points): 2
+
+    [hbnb] Ask students to explain what an absolute path is (Answer: an absolute path is a “path” to a python file from where you start the Python interpreter)
+    Score (2 points): 2
+
+    [hbnb] Ask students to explain what cyclical importing is? (Answer: Cross importing of files)
+    Score (2 points): 2
+
+    [hbnb] Ask students to explain the flow of serialization/deserialization. Make sure they mention the following concepts:
+
+    Ask students to give a quick definition of what serialization is (Answer: the concept of transferring data from one representation to another without losing any information)
+    Score (2 points): 2
+
+    [hbnb] Ask students Whether or not they can save an object on a hard drive after serializing it (Answer: can’t save an object on disk) (bytes)
+    Score (2 points): 2
+
+    [hbnb] Ask students to explain what kind of data representation is needed in order to serialize the object (Answer: you need to represent an object to a “simple structure”: dictionary)
+    Score (2 points): 2
+
+    [hbnb] Ask students to explain the flow of serialization/deserialization: #3 Specifically, how is a datetime object serialized/deserialized.
+    Score (2 points): 2
+
+    [hbnb] Ask students to explain what happens to a dictionary during serialization (Answer: with a dictionary, it’s possible to represent it as a string by using JSON)
+    Score (2 points): 2
+
+    [hbnb] Ask students to explain why we use JSON (Answer: JSON is a standard format to exchange data)
+    Score (2 points): 2
+
+    [hbnb] Ask students to explain what happens during deserialization (Answer: deserialization is the opposite of serialization: recreating an object based on a representation (dictionary, JSON file, etc.))
+    Score (2 points): 2
+
+Additional comment 2000
+Global manual review comment *1967
+Project was failed automatically.
+Copyright © 2024 ALX, All rights reserved.
